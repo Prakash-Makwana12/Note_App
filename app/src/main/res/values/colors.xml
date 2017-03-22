@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6d7bc7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TextColor">#0270c4</color>
+    <color name="TextBoxBackground">#64d1b40d</color>
+    <color name="Listviewcolor">#add10d</color>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#303F9F</color>
+</resources>
